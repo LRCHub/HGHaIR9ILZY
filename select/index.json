@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Play the Future",
+  "base_artist": "Hanon",
+  "createdAt": "2025-12-28T09:14:58.703079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love the past, Play the future",
+      "artist": "CTS",
+      "has_synced": true,
+      "path": "select/01_Love_the_past,_Play_the_future_CTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love the Past, Play the Future",
+      "artist": "CTS",
+      "has_synced": true,
+      "path": "select/02_Love_the_Past,_Play_the_Future_CTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play the Future",
+      "artist": "Hanon",
+      "has_synced": false,
+      "path": "select/pl_01_Play_the_Future_Hanon.txt"
+    }
+  ]
+}
